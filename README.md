@@ -1,6 +1,6 @@
 ## Compare-Deep-Learning-and-Image-Processing-Method-for-Shadow-Removal
 
-#Abstract
+# Abstract
 The Deep Learning Model is multi-tasking which
 jointly learns both shadow detection and shadow removal. The
 framework is based on a novel Stacked Conditional Generative
